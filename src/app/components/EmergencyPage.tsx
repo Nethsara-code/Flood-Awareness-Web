@@ -31,17 +31,17 @@ export function EmergencyPage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <a href="tel:117" className="bg-white text-red-600 p-6 rounded-lg hover:bg-red-50 transition-colors">
-              <div className="text-4xl mb-2">117</div>
+              <div className="text-4xl mb-2">1990</div>
               <div className="text-lg">Emergency Services</div>
               <div className="text-sm opacity-75">General Emergency Line</div>
             </a>
             <a href="tel:0112136136" className="bg-white text-red-600 p-6 rounded-lg hover:bg-red-50 transition-colors">
-              <div className="text-4xl mb-2">011-2136136</div>
+              <div className="text-4xl mb-2">011 2136136</div>
               <div className="text-lg">Disaster Management</div>
               <div className="text-sm opacity-75">DMC Emergency Centre</div>
             </a>
             <a href="tel:1990" className="bg-white text-red-600 p-6 rounded-lg hover:bg-red-50 transition-colors">
-              <div className="text-4xl mb-2">1990</div>
+              <div className="text-4xl mb-2">119</div>
               <div className="text-lg">Police Emergency</div>
               <div className="text-sm opacity-75">24/7 Police Hotline</div>
             </a>

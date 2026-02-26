@@ -37,15 +37,15 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>117 - Emergency</span>
+                <span>1990 - Emergency</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>011-2136136 - DMC</span>
+                <span>011 2136136 - DMC</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>1990 - Police</span>
+                <span>119 - Police</span>
               </li>
             </ul>
           </div>
